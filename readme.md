@@ -20,6 +20,7 @@ Docker:
 * docker container run -d -p 8080:8080 --name mycitybot citybot
 
 ### Бот:
+Так как это long pooling бот, для того чтобы он работал его нужно запустить локально у себя на машине.
 
 * @testcitybot_bot
 * 1688454489:AAGaqhx4YX2P0uDz-ECpEQgJ6qpE1XFokpM
